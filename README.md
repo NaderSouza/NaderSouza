@@ -51,7 +51,8 @@
 
 ## ⚙️ GitHub Analytics
 
-[![Nader Souza's Stats](https://github-readme-stats.vercel.app/api?username=NaderSouza&theme=dark&cache_seconds=1800&v=1)](https://github.com/NaderSouza)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaderSouza&theme=dark&include_all_commits=true&show_icons=true&hide_rank=false&cache_seconds=1800&v=2)](https://github.com/NaderSouza)
+
 
 [![NaderSouza Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaderSouza&hide=html&layout=compact&theme=dark&cache_seconds=1800&v=1)](https://github.com/NaderSouza)
 
