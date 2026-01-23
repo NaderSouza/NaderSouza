@@ -20,47 +20,39 @@
   <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a>
   <a title="Node.js" href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
   <a title="React" href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a>
-
 </p>
-
 </div>
 
 <h2 align="left">📖 Currently learning</h2>
 <p align="left">
-
-<a title="Ansible" href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-<a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
-<a title="PostgreSQL" href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
-<a title="Dynatrace" href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40"/></a>
-<a title="Grafana" href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-<a title="Zabbix" href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/></a>
-<a title="Kafka" href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-
-<!-- <a title="React" href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a> -->
-
-  <!-- <a title="Jenkins" href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> -->
-
+  <a title="Ansible" href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
+  <a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
+  <a title="PostgreSQL" href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
+  <a title="Dynatrace" href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40"/></a>
+  <a title="Grafana" href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+  <a title="Zabbix" href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/></a>
+  <a title="Kafka" href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
 </p>
 
 <h2 align="left">💡 Interested</h2>
 <p align="left">
   <a title="Google Cloud" href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="40" height="40"/></a>
-
 </p>
 
 <h2 align="left">🌐 Social media</h2>
 <p align="left">
-
-<a title="Gmail - naderhadadsouza@gmail.com" href="mailto:naderhadadsouza@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nader-souza" height="30" width="40"/></a>
-<a title="LinkedIn" href="https://linkedin.com/in/nader-souza/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian-soaresss" height="30" width="40"/></a>
-
+  <a title="Gmail - naderhadadsouza@gmail.com" href="mailto:naderhadadsouza@gmail.com" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="naderhadadsouza@gmail.com" height="30" width="40"/>
+  </a>
+  <a title="LinkedIn" href="https://linkedin.com/in/nader-souza/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nader-souza" height="30" width="40"/>
+  </a>
 </p>
 
 ## ⚙️ GitHub Analytics
 
-[![Nader Souza's Stats](https://github-readme-stats.vercel.app/api?username=NaderSouza&theme=dark)](https://github.com/NaderSouza)
+[![Nader Souza's Stats](https://github-readme-stats.vercel.app/api?username=NaderSouza&theme=dark&cache_seconds=1800&v=1)](https://github.com/NaderSouza)
 
-[![NaderSouza Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaderSouza&hide=html&layout=compact&theme=dark)](https://github.com/NaderSouza)
+[![NaderSouza Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaderSouza&hide=html&layout=compact&theme=dark&cache_seconds=1800&v=1)](https://github.com/NaderSouza)
 
 </div>
-
